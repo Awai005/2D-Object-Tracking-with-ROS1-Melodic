@@ -1,0 +1,2 @@
+object_tracking
+-DCATKIN_DEVEL_PREFIX=/rosbags/devel -DCMAKE_INSTALL_PREFIX=/rosbags/install -G Unix Makefiles

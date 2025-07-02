@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /rosbags/devel/setup.sh
