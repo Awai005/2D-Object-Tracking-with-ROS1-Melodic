@@ -6,8 +6,9 @@ This project implements a multi-object detection and tracking system using **2D 
 ## [Simulation Video](https://drive.google.com/file/d/1QIQxyvDyjLU-dQq0vyrIazaxxm4Vcyla/view?usp=sharing)
 
 ## [Project File with built workspace for Python(.py) implementation](https://drive.google.com/file/d/1FDIc_OrW5SLWYXw_oZuOyq7VyVDa-VZB/view?usp=sharing)
-Clone the repository for the c++ implementation, for the python implementation simply download the above file which has all the executables already built. The dataset should be downloaded separately
+Clone the repository for the c++ implementation and python implementation. The dataset should be downloaded separately from : [Dataset](https://lifelong-robotic-vision.github.io/dataset/scene.html)
 
+Instructions for running the .py package
 ## System Requirements
    ```
 python == 2.7
